@@ -458,9 +458,9 @@ if (grade === 'A') {
 
 #### Part 2: Construct Similar Logic Using a Switch Statement
 
-Using the if/else statement from above, convert it into a switch statement.
+<summary>
+<details>Using the if/else statement from above, convert it into a switch statement.</details>
 
->Ask students to do this exercise individually.
 
 ```javascript
 var grade = 'C';
@@ -486,6 +486,7 @@ switch (grade) {
 }
 
 ```
+</summary>
 
 #### Part 3: Which is Faster?
 

@@ -458,35 +458,37 @@ if (grade === 'A') {
 
 #### Part 2: Construct Similar Logic Using a Switch Statement
 
-<summary>
-<details>Using the if/else statement from above, convert it into a switch statement.</details>
+<details>
+<summary>Using the if/else statement from above, convert it into a switch statement.</summary>
 
 
-```javascript
-var grade = 'C';
+  ```javascript
+  var grade = 'C';
 
-switch (grade) {
-  case 'A':
-    console.log('Awesome job');
-    break;
-  case 'B':
-    console.log('Good job');
-    break;
-  case 'C':
-    console.log('Okay job');
-    break;
-  case 'D':
-    console.log('Not so good job');
-    break;
-  case 'F':
-    console.log('Bad job');
-    break;
-  default:
-    console.log('Unexpected grade value entered');
-}
+  switch (grade) {
+    case 'A':
+      console.log('Awesome job');
+      break;
+    case 'B':
+      console.log('Good job');
+      break;
+    case 'C':
+      console.log('Okay job');
+      break;
+    case 'D':
+      console.log('Not so good job');
+      break;
+    case 'F':
+      console.log('Bad job');
+      break;
+    default:
+      console.log('Unexpected grade value entered');
+  }
 
 ```
-</summary>
+</details>
+
+<br>
 
 #### Part 3: Which is Faster?
 

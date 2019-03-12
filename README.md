@@ -374,9 +374,9 @@ Students can work in pairs to complete the exercise. Check out the solution belo
 
 >Note: If you are outside the U.S., adjust the conditions above to reflect the laws in your country.
 
-**Solution**
+
 <details>
-<summary></summary>
+<summary>Solution</summary>
   
   ```javascript
   var age = 25;

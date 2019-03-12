@@ -363,7 +363,7 @@ Write a program that outputs results based on users’ age. This exercise draws 
 - If you are under 16, you cannot do much outside of going to school
 - If you are 16 or older, you can drive
 - If you 18 or older, you can vote
-- If you are 21 or older, you can drink alcohol
+- If you are 21 or older, you can smoke cigarettes
 - If you are 25 or older, you can rent a car
 - If you are 35 or older, you can run for president
 - If you are 62 or older, you collect social security benefits

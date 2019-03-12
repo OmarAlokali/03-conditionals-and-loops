@@ -32,8 +32,6 @@
 - Create arrays and access values in them.
 - Iterate over and manipulate values in an array.
 
-> Note: Last class, we worked on data types, arrays, helper methods, and array iterations. Check with students to make sure that everyone is comfortable with the materials covered in the last class before introducing the new material.
-
 ---
 
 <a name="opening"></a>

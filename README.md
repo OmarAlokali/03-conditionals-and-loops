@@ -375,7 +375,8 @@ Students can work in pairs to complete the exercise. Check out the solution belo
 >Note: If you are outside the U.S., adjust the conditions above to reflect the laws in your country.
 
 **Solution**
-
+<details>
+  <summary></summary>
 ```javascript
 var age = 25;
 
@@ -399,6 +400,8 @@ if (age < 16) {
 
 => You can rent a car!
 ```
+
+</details>
 
 ---
 <a name="codealong4"></a>
